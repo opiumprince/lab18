@@ -1,0 +1,10 @@
+C:\Users\Bohdan\Documents\Lab18\obj\Debug\Lab18.csproj.AssemblyReference.cache
+C:\Users\Bohdan\Documents\Lab18\obj\Debug\Lab18.Form1.resources
+C:\Users\Bohdan\Documents\Lab18\obj\Debug\$safeprojectname$.Properties.Resources.resources
+C:\Users\Bohdan\Documents\Lab18\obj\Debug\Lab18.csproj.GenerateResource.cache
+C:\Users\Bohdan\Documents\Lab18\obj\Debug\Lab18.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Documents\Lab18\bin\Debug\$safeprojectname$.exe.config
+C:\Users\Bohdan\Documents\Lab18\bin\Debug\$safeprojectname$.exe
+C:\Users\Bohdan\Documents\Lab18\bin\Debug\$safeprojectname$.pdb
+C:\Users\Bohdan\Documents\Lab18\obj\Debug\$safeprojectname$.exe
+C:\Users\Bohdan\Documents\Lab18\obj\Debug\$safeprojectname$.pdb
